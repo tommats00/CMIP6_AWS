@@ -4,4 +4,4 @@ This repository contains tutorials dedicated to the use of cloud computing resou
 
 Contents are as follows:
 
-
+- CMIP6_timeseries_map.ipynb: Contains a detailed explanation of using the CMIP6 database holdings via AWS, with the "intake", "intake-esm", and "s3fs" packages. Also shows the user a basic time series visualization using historical and SSP3-7.0 projection information from the CanESM5.
